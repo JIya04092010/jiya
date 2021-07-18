@@ -1,0 +1,35 @@
+body{
+text-align: center;
+    background-color: pink;
+      border:15px dotted purple;
+
+}
+img{
+    padding: 0px;
+    border-radius: 30%;
+    border:5px solid navy;
+    margin: 35px;
+}
+.row1{
+    display: flex;
+justify-content: center;
+    
+}
+p{
+    font-size: 30px;
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: 800;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 800;
+
+}
+h3{
+    font-family: 'Lobster', cursive;
+font-weight: 800;
+}
+h4{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 800;
+}
